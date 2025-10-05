@@ -1,15 +1,15 @@
 {
-  "latest_version": "2.0.9",
+  "latest_version": "2.1.0",
   "releases": [
     {
       "version": "2.0.8",
-      "download_url": "https://github.com/asifsofficial/ipayees-updater/releases/download/v2.0.9/update.zip",
+      "download_url": "https://github.com/asifsofficial/ipayees-updater/releases/download/v2.1.0/update.zip",
       "release_date": "2025-10-05",
       "changelog": [
         {
-          "title": "Version 2.0.9",
+          "title": "Version 2.1.0",
           "details": [
-            "Big fixed and some update"
+            "Big fixed and some update and new feature"
           ]
         }
       ]
