@@ -1,13 +1,13 @@
 {
-  "latest_version": "2.1.2",
+  "latest_version": "2.1.3",
   "releases": [
     {
-      "version": "2.1.2",
+      "version": "2.1.3",
       "download_url": "https://github.com/asifsofficial/ipayees-updater/releases/download/v2.1.2/update.zip",
       "release_date": "2026-02-02",
       "changelog": [
         {
-          "title": "Version 2.1.2",
+          "title": "Version 2.1.3",
           "details": [
             "Fixed admin UI width for all modules (Full Width fix)",
             "Standardized dashboard card headers and padding",
